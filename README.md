@@ -116,6 +116,8 @@
 
 ![ Reading Scores by Grade_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Reading%20Scores%20by%20Grade_Adjusted.png)
 
-  Additionally, since so much of school analysis is about year-over-year (or semester-over-semester) performance this gap of data will have a ripple effect for the rest of the students’ high school career. In districts across the country, teachers are evaluated based on tangible outcomes (like test scores) and student services are often tied to those same metrics. Even at a district level, there can be repercussions with regards to state and federal funding without validated test results. 
+
+## Final Thoughts
+  Since so much of school analysis is about year-over-year (or semester-over-semester) performance this lack of data will have a ripple effect for the rest of the students’ high school career. In districts across the country, teachers are evaluated based on tangible outcomes (like test scores) and student services are often tied to those same metrics. Even at a district level, there can be repercussions with regards to state and federal funding without validated test results. 
 
   The next step should be evaluating what can be done about this gap of data and, ultimately, put policies and procedures in place to prevent this outcome in the future.
