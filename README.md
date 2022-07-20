@@ -61,58 +61,61 @@
 
 ![Top Five Schools_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Top%20Five%20Schools_Adjusted.png)
 
-  As previously mentioned, this data is being evaluated from several different angles. Below you will see that score performance based on school size, school type, and per student spending all remain unchanged. 
+--------------------------------------------------------------------------------------------------------------
+  As previously mentioned, this data is being evaluated from several different angles. Below you will see that score performance based on school size, school type, and per student spending all remain unchanged after the 9th grade scores were removed. 
 
 #### School Size
-<sub>Scores by School Size Original</sub>
+*<sub>Scores by School Size Original</sub>*
 
-![ School Size Summary_Original.png]
+![ School Size Summary_Original.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/School%20Size%20Summary_Original.png)
 
-<sub>Scores by School Size Adjusted</sub>
+*<sub>Scores by School Size Adjusted</sub>*
 
-![ School Size Summary_Adjusted.png]
+![ School Size Summary_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/School%20Size%20Summary_Adjusted.png)
+
 
 #### Per Student Spending
-<sub>Per Student Spending Original</sub>
+*<sub>Per Student Spending Original</sub>*
 
-![ Spending Summary_Original.png]
+![ Spending Summary_Original.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Spending%20Summary_Original.png)
 
-<sub>Per Student Spending Adjusted</sub>
+*<sub>Per Student Spending Adjusted</sub>*
 
-![ Spending Summary_Adjusted.png]
+![ Spending Summary_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Spending%20Summary_Adjusted.png)
+
 
 #### School Type
-<sub>Scores by School Type Original</sub>
+*<sub>Scores by School Type Original</sub>*
 
-![ School Type Summary_Original.png]
+![ School Type Summary_Original.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/School%20Type%20Summary_Original.png)
 
-<sub>Scores by School Type Adjusted</sub>
+*<sub>Scores by School Type Adjusted</sub>*
 
-![ School Type Summary_Adjusted.png]
+![ School Type Summary_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/School%20Type%20Summary_Adjusted.png)
 
+--------------------------------------------------------------------------------------------------------------
+  With these higher-level overviews, both district and school, one could interpret that removing the 9th grade score data has had nominal impact on the analysis. It also indicates that the best decision was only omitting the math and reading grades, instead of marking them as “0” or removing the students completely. 
 
-With these higher-level overviews, both district and school, one could interpret that removing the 9th grade score data has had nominal impact on the analysis. It also indicates that the best decision was only omitting the math and reading grades, instead of marking them as “0” or removing the students completely. 
-
-However, with this last set of images, you will see that the absence of the 9th grade scores at THS, still leaves a notable gap when you drill down into the grade level performance. There are 1,635 students at THS, and we do not have the scores of 461 of them. This means we do not have critical insight into 28% of the school. 
-
+  However, with this last set of images, you will see that the absence of the 9th grade scores at THS, still leaves a notable gap when you drill down into the grade level performance. There are 1,635 students at THS, and we do not have the scores of 461 of them. This means we do not have critical insight into 28% of the school.
 
 #### Math Scores 
-<sub>Math Scores by Grade Original</sub>
+*<sub>Math Scores by Grade Original</sub>*
 
-![ Math Scores by Grade_Original.png]
+![ Math Scores by Grade_Original.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Math%20Scores%20by%20Grade_Original.png)
 
-<sub>Math Scores by Grade Adjusted</sub>
+*<sub>Math Scores by Grade Adjusted</sub>*
 
-![ Math Scores by Grade_Adjusted.png]
+![ Math Scores by Grade_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Math%20Scores%20by%20Grade_Adjusted.png)
 
 #### Reading Scores 
-<sub>Reading Scores by Grade Original</sub>
+*<sub>Reading Scores by Grade Original</sub>*
 
-![ Reading Scores by Grade_Original.png]
+![ Reading Scores by Grade_Original.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Reading%20Scores%20by%20Grade_Original.png)
 
-<sub>Reading Scores by Grade Adjusted</sub>
+*<sub>Reading Scores by Grade Adjusted</sub>*
 
-![ Reading Scores by Grade_Adjusted.png]
+![ Reading Scores by Grade_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Reading%20Scores%20by%20Grade_Adjusted.png)
 
-Additionally, since so much of school analysis is about year over year (or semester over semester) performance this gap of data will have a ripple effect for the rest of the students’ high school career. In districts across the country, teachers are evaluated based on tangible outcomes (like test scores) and student services are often tied to those same metrics. Even at a district level, there can be repercussions with state and federal funding without validated test results. 
-The next step should be evaluating what can be done about this gap of data and, ultimately, put policies and procedures in place to prevent this outcome in the future. 
+  Additionally, since so much of school analysis is about year over year (or semester over semester) performance this gap of data will have a ripple effect for the rest of the students’ high school career. In districts across the country, teachers are evaluated based on tangible outcomes (like test scores) and student services are often tied to those same metrics. Even at a district level, there can be repercussions with state and federal funding without validated test results. 
+
+  The next step should be evaluating what can be done about this gap of data and, ultimately, put policies and procedures in place to prevent this outcome in the future.
