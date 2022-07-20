@@ -51,17 +51,17 @@
 
 ![ Per School Summary_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Per%20School%20Summary_Adjusted.png)
 
-	Focusing our lens on how Thomas High School compares to others schools within the district is equally important. Prior to removing the 9th grade scores, THS was ranked second just behind Cabrera. After removing the 9th grade scores, the overall percentage fell that same 0.3% as we saw previously. This adjustment did not impact this ranking as it is now tied for second with Griffin High School. These scores also bear no tangible impact on any aspects of the budget since those are not correlated to scores within this data. 
+  Focusing our lens on how Thomas High School compares to others schools within the district is equally important. Prior to removing the 9th grade scores, THS was ranked second just behind Cabrera. After removing the 9th grade scores, the overall percentage fell that same 0.3% as we saw above. This adjustment did not impact this ranking as it is now tied for second with Griffin High School. These scores also bear no tangible impact on any aspects of the budget since those are not correlated to scores within this data.
 
-<sub>Top Five Schools Original</sub>
+*<sub>Top Five Schools Original</sub>*
 
-![ Top Five Schools_Original.png]
+![ Top Five Schools_Original.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Top%20Five%20Schools_Original.png)
 
-<sub>Top Five Schools Adjusted</sub>
+*<sub>Top Five Schools Adjusted</sub>*
 
-![Top Five Schools_Adjusted.png]
+![Top Five Schools_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Top%20Five%20Schools_Adjusted.png)
 
-	As previously mentioned, this data is being evaluated from several different angles. Below you will see that score performance based on school size, school type, and per student spending all remain unchanged. 
+  As previously mentioned, this data is being evaluated from several different angles. Below you will see that score performance based on school size, school type, and per student spending all remain unchanged. 
 
 #### School Size
 <sub>Scores by School Size Original</sub>
