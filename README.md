@@ -18,7 +18,7 @@
 
 ## Resources 
   *	Software: Python with pandas library
-  *	Platforms: Jupyter Notebook, via Anaconda
+  *	Applications: Jupyter Notebook, via Anaconda
   *	Data Sources: schools_complete.csv, students_complete.csv
 
 ## Summary of Results
