@@ -27,15 +27,15 @@
   To give the data more context, a passing score is equal to or greater than 70 in either reading or math. Any references made to “Overall Passing” is defined as a student scoring equal to or greater than 70 in both math and reading. Additionally, all analysis that is shown prior to the removal of the 9th grade THS math and reading scores will be referenced as “Original”. All analysis completed after the removal of the 9th grade THS scores will be referenced as “Adjusted”.
 
 ### District Summary
-	In reviewing the high-level data, at a district level, you can see that the variances before and after the removal of the 9th grade THS scores is minimal. The greatest change is on the “% Overall Passing” which went down 0.3%, with the second largest change found within the “% Passing Math” at 0.2%. 
+  In reviewing the high-level data, at a district level, you can see that the variances before and after the removal of the 9th grade THS scores is minimal. The greatest change is on the “% Overall Passing” which went down 0.3%, with the second largest change found within the “% Passing Math” at 0.2%. 
 
-<sub>District Summary Original</sub>
+*<sub>District Summary Original</sub>*
 
-![ District Summary_Original.png]
+![ District Summary_Original.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/District%20Summary_Original.png)
 
-<sub>District Summary Adjusted</sub> 
+*<sub>District Summary Adjusted</sub>*
 
-![ District Summary_Adjusted.png]
+![ District Summary_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/District%20Summary_Adjusted.png)
 
 
 ### School Summary
@@ -115,4 +115,3 @@ However, with this last set of images, you will see that the absence of the 9th 
 
 Additionally, since so much of school analysis is about year over year (or semester over semester) performance this gap of data will have a ripple effect for the rest of the students’ high school career. In districts across the country, teachers are evaluated based on tangible outcomes (like test scores) and student services are often tied to those same metrics. Even at a district level, there can be repercussions with state and federal funding without validated test results. 
 The next step should be evaluating what can be done about this gap of data and, ultimately, put policies and procedures in place to prevent this outcome in the future. 
-![image](https://user-images.githubusercontent.com/104373314/180085916-65ec4268-718d-400e-bccf-ef83583c741b.png)
