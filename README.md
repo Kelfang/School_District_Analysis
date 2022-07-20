@@ -22,7 +22,7 @@
   *	Data Sources: schools_complete.csv, students_complete.csv
 
 ## Summary of Results
-  With the omission of the math and reading scores for all the 9th graders at Thomas High School (THS), you will see that the numbers did not vary significantly between the original data and the adjusted data. I will evaluate those variances below.
+  With the omission of the math and reading scores for all the 9th graders at Thomas High School, you will see that the numbers did not vary significantly between the original data and the adjusted data. I will evaluate those variances below.
   
   To give the data more context, a passing score is equal to or greater than 70 in either reading or math. Any references made to “Overall Passing” is defined as a student scoring equal to or greater than 70 in both math and reading. Additionally, all analysis that is shown prior to the removal of the 9th grade THS math and reading scores will be referenced as “Original”. All analysis completed after the removal of the 9th grade THS scores will be referenced as “Adjusted”.
 
@@ -39,16 +39,17 @@
 
 
 ### School Summary
-Drilling down into the data within Thomas High School, you will see that greatest change is reflected in the “% Overall Passing”, just as we did in the district level data, at 0.3%. The reading and math mirrored the district differences as well. 
-Please take note that the total number of students at THS remain unchanged. The only data points that were omitted were the reading and math scores. This was done to accurately reflect the school size and the budget data that pertains to the student count. 
+  Drilling down into the data within Thomas High School, you will see that greatest change is reflected in the “% Overall Passing”, just as we did in the district level data, at 0.3%. The reading and math mirrored the district differences as well.
+  
+  Please take note that the total number of students at THS remain unchanged. The only data points that were omitted were the reading and math scores. This was done to accurately reflect the school size and the budget data that pertains to the student count.
 
-<sub>Per School Summary Original</sub>
+*<sub>Per School Summary Original</sub>*
 
-![Per School Summary_Original.png]
+![Per School Summary_Original.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Per%20School%20Summary_Original.png)
 
-<sub>Per School Summary Adjusted</sub>
+*<sub>Per School Summary Adjusted</sub>*
 
-![ Per School Summary_Adjusted.png]
+![ Per School Summary_Adjusted.png](https://github.com/Kelfang/School_District_Analysis/blob/main/Uploaded%20PNGs/Per%20School%20Summary_Adjusted.png)
 
 	Focusing our lens on how Thomas High School compares to others schools within the district is equally important. Prior to removing the 9th grade scores, THS was ranked second just behind Cabrera. After removing the 9th grade scores, the overall percentage fell that same 0.3% as we saw previously. This adjustment did not impact this ranking as it is now tied for second with Griffin High School. These scores also bear no tangible impact on any aspects of the budget since those are not correlated to scores within this data. 
 
